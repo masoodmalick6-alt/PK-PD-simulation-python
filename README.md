@@ -75,9 +75,3 @@ Python, numpy, scipy, matplotlib, pandas, Google Colab
 - The Emax link has no delay, no tolerance, and no feedback.
 - Never use these teaching numbers to recommend a dose for a real patient. Real decisions need real data and qualified supervision.
 
-## What to do after finishing
-1. Fill in every MY RESULTS box in the notebooks and in this README with your own numbers.
-2. Create the GitHub repo (only after finishing), in the same style as the Ames, Solubility, BBBP, and Docking repos.
-3. Then update the CV and the portfolio with the finished project and its real numbers.
-
-Educational project. Not a dosing guide, and not proof of a real drug's behaviour.
